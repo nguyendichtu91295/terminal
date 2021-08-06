@@ -1,6 +1,10 @@
 # Configuration for iterm2 OR zsh
 
 ![pure + zsh + dracula theme](pure_zsh_dracula.png)
+
+This `.zshrc` has confifuration for those who like to move around text with these commands `⌥+←` or `⌥+→` <br />
+Another thing with this Iterm2 `json`, you can finally use `⌥+backspace` in your Iterm2. (Just a small change btw)
+
 ## ZSH
 ### Firstly, `brew`
 ```bash

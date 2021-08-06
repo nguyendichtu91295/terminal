@@ -8,6 +8,11 @@ ZSH_THEME=""
 #ZSH_THEME="common"
 #ZSH_THEME="bira"
 # ZSH_THEME="powerlevel10k/powerlevel10k"
+
+bindkey -e
+bindkey '\e\e[C' forward-word
+bindkey '\e\e[D' backward-word
+
 plugins=(
     git 
     dotenv
