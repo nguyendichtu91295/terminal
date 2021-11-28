@@ -16,8 +16,8 @@ bindkey '\e\e[D' backward-word
 plugins=(
     git 
     dotenv
-    # osx is support some function of MacOS 
-    #osx
+    # macos is support some function of MacOS 
+    #macos
     zsh-syntax-highlighting
     zsh-autosuggestions
 )
